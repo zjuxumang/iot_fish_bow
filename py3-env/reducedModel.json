@@ -1,0 +1,25 @@
+{
+	"services":[
+		{
+			"identifier":"feed"
+		}
+	],
+	"properties":[
+		{
+			"identifier":"WaterTemperature"
+		},
+		{
+			"identifier":"LEDSwitch"
+		}
+	],
+	"events":[
+		{
+			"outputData":[
+				{
+					"identifier":"ErrorCode"
+				}
+			],
+			"identifier":"Error"
+		}
+	]
+}

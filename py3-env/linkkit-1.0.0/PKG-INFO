@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: linkkit
+Version: 1.0.0
+Summary: Aliyun IoT Linkkit SDK for Python
+Home-page: UNKNOWN
+Author: Linkkit Python SDK
+Author-email: 
+License: UNKNOWN
+Description: #Python SDK for Aliyun IoT device
+        
+        This is a python sdk for Aliyun IoT device. 
+        * MQTT connection:MQTTV31,MQTTV311
+        * Aliyun IoT Thing Model
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
